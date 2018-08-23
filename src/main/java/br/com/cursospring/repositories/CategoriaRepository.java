@@ -7,8 +7,5 @@ import br.com.cursospring.domain.Categoria;
 
 @Repository
 public interface CategoriaRepository extends JpaRepository<Categoria, Integer> {
-	
-	
-	
 
 }
